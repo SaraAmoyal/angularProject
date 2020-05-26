@@ -1,0 +1,126 @@
+body {
+    text-align: center;
+    direction: ltr;
+    font-family: FbBokertov;
+}
+
+.active {
+    border-right: 1px solid white;
+}
+img {
+    border: 5px solid white;
+}
+
+#logo {
+    position: relative;
+    top: 0px;
+    font-family: 'journalclm-light-webfont';
+    font-size: 40px;
+    text-align: left;
+    background-color: palevioletred;
+}
+form{
+    text-align: center;
+}
+
+p ,.p{
+    direction:rtl;
+    text-align:center;
+    background-color:khaki;
+}
+/* @font-face {
+    font-family: 'journalclm-light-webfont';
+    src: url('../fonts/journalclm-light-webfont.woff') format('woff');} */
+/*#iam {
+    border: 2px solid #54118f;
+}*/
+/* .tit {
+    font-size: 40px;
+    background-color: blueviolet;
+}
+.row{
+    margin:8px;
+}
+.iam {
+    background-color: blueviolet;
+    border:4px solid white;
+}
+   
+fieldset {
+    margin-left: 50%;
+}
+
+.cust {
+    font-size: 15px;
+}
+
+.order {
+    font-size: 15px;
+    border: 2px solid white;
+}
+h5{
+    font-size:20px;
+}
+#logo {
+    position: relative;
+    top: 0px;
+    font-family: 'journalclm-light-webfont';
+    font-size: 40px;
+    text-align: left;
+    background-color: lavender;
+}
+.tel{
+    font-size:20px;
+}
+@font-face {
+    font-family: 'journalclm-light-webfont';
+    src: url('../fonts/journalclm-light-webfont.woff') format('woff');
+}
+.photo{
+    position:relative;
+   z-index:2;
+}
+.img-fluid:hover, img-fluid:focus {
+    -ms-transform: scale(1.05);
+    -moz-transform: scale(1.05);
+    -webkit-transform: scale(1.05);
+    -o-transform: scale(1.05);
+    transform: scale(1.05);
+}
+
+table {
+    background-color:lavender;
+    width: 100%;
+    height: 200px;
+    padding:10px;
+}
+
+tr {
+    height: 20px;
+}
+
+th {
+    background-color:mediumslateblue;
+}
+
+td {
+    border: thin ridge indigo;
+}
+
+caption {
+    border-top: 5px solid indigo;
+    border-bottom: 5px solid indigo;
+} */
+
+/* .tip {
+    direction: rtl;
+    text-align: center;
+    background-color: lavender;
+}
+.tipi{
+border-top: 5px solid indigo;
+border-bottom: 5px solid indigo;
+direction: rtl;
+text-align: center;
+background-color: lavender;
+} */

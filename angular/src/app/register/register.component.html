@@ -1,0 +1,22 @@
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+
+<body>
+    <div class="w3-card-4">
+    <p>register</p>
+<form class="w3-container">
+<label for="name">your name :</label>
+<input class="w3-input" type="text" name="name" [(ngModel)]="name">
+<label for="address">your address:</label>
+<input class="w3-input" type="text"  name="address">
+<label for="password">your password:</label>
+<input class="w3-input" type="password" [(ngModel)]="password" name="pass" (keydown.enter)="registerMe()">
+<div *ngIf="ifvalid">*Choose a  password, include Minimum 3 characters
+    at least 1 Alphabet, 1 Number and 1 Special Character, and the len has to be more than 7.</div>
+ 
+</form>
+</div>
+</body>
+
+
+
+

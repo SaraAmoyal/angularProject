@@ -1,0 +1,41 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.0/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"></script>
+    <title></title>
+</head>
+<body>
+<div id="logo">Good Things</div>
+ <nav class="navbar navbar-expand-lg navbar-light warning-color lighten-5">
+    
+    <ul class="navbar-nav">
+      <li class="nav-item active">
+      <a class="nav-link" routerLink="/All-recipes">All Resipes</a>
+    </li>
+        <li class="nav-item ">
+            <a class="nav-link" routerLink="/Login">Login</a>
+        </li>
+        <li class="nav-item">
+            <a class="nav-link" routerLink="/Register">Register</a>
+        </li>
+        <li class="nav-item">
+           <a class="nav-link" routerLink="/Add">Add Resipes</a>
+        </li> 
+     <li class="nav-item">
+        <a class="nav-link" routerLink="/Contact">Contact</a>
+     </li>
+        <li class="nav-item">
+            <a class="nav-link" (click)="logMeOut()" >Log out</a>
+        </li>
+    </ul>
+</nav> 
+<!-- routerLink="/Log-Out" -->
+
+<router-outlet></router-outlet>
+</body>
+</html>

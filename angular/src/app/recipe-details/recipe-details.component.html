@@ -1,0 +1,54 @@
+
+
+
+<body>
+<p class="titlebold">recipe-details</p>
+
+<div *ngIf="hidden" >
+    <div class="row">
+     <br>
+     <div class="col-sm-6"><img class="cakeimg" src={{nowRecipe.RecipePicture}}></div>
+     <br>
+     <div class="col-sm-6 mybold">
+     <label><div class="titlebold">recipe Name: </div>{{nowRecipe.RecipeName}}</label>
+     <br>
+     <label><div class="titlebold">Category: </div>{{nowRecipe.RecipeCategory}}</label>
+      <br>
+     <label><div class="titlebold">Difficult Level: </div>
+        <div style="float: left;" *ngFor="let s of starsArr">
+        <span style="color:darkorange" class="rating-star active" aria-hidden="true" data-rating="1">
+            <svg width="24" height="24" viewBox="0 0 24 24" role="img" aria-hidden="true" tabindex="-1" xmlns="http://www.w3.org/2000/svg"><path class="rating-star-filled" d="M12 17.27L18.18 21l-1.64-7.03L22 9.24l-7.19-.61L12 2 9.19 8.63 2 9.24l5.46 4.73L5.82 21z"></path></svg>
+        </span></div>
+     </label> 
+     <br>
+     <div *ngIf="itsMe">
+     <a routerLink="/Edit-Recipe/{{nowRecipe.RecipeName}}">edit the recipe</a>
+    </div>
+</div>
+    </div>
+    <div class="row">
+        <div class="col-sm-5 text">
+    <label><div class="titlebold">Ingredients:</div>
+        <div *ngFor="let ing of nowRecipe.RecipeIngredients">
+              {{ing}}
+              <br>
+        </div>
+    </label>
+    <br>
+</div>
+<div class="col-sm-5 text">
+    <label><div class="titlebold">Prepering:</div>
+        <div class="row" *ngFor="let pre of nowRecipe.RecipePreparation;let i=index">
+              <img class="col-sm-1.5" src="assets\forprepering.jpg" width="30px" height="30px" />
+              <div class="titlebold col-sm-3">step {{i+1}}:</div><br> 
+              {{pre}}
+        </div>
+    </label>
+    <br>
+</div>
+
+</div>
+   <div class="titlebold">Appetite!!</div>
+</div>
+</body>
+      <router-outlet></router-outlet>   

@@ -1,0 +1,301 @@
+Y:\00000הנדסאיות תשפ\שנה ב\בית המורה\ערב\0שרה אמויאל\saraamoyalangular\httpC#\WebApplication2\WebApplication2\bin\WebApplication2.dll.config
+Y:\00000הנדסאיות תשפ\שנה ב\בית המורה\ערב\0שרה אמויאל\saraamoyalangular\httpC#\WebApplication2\WebApplication2\bin\WebApplication2.dll
+Y:\00000הנדסאיות תשפ\שנה ב\בית המורה\ערב\0שרה אמויאל\saraamoyalangular\httpC#\WebApplication2\WebApplication2\bin\WebApplication2.pdb
+Y:\00000הנדסאיות תשפ\שנה ב\בית המורה\ערב\0שרה אמויאל\saraamoyalangular\httpC#\WebApplication2\WebApplication2\bin\roslyn\csc.exe
+Y:\00000הנדסאיות תשפ\שנה ב\בית המורה\ערב\0שרה אמויאל\saraamoyalangular\httpC#\WebApplication2\WebApplication2\bin\roslyn\csc.exe.config
+Y:\00000הנדסאיות תשפ\שנה ב\בית המורה\ערב\0שרה אמויאל\saraamoyalangular\httpC#\WebApplication2\WebApplication2\bin\roslyn\csc.rsp
+Y:\00000הנדסאיות תשפ\שנה ב\בית המורה\ערב\0שרה אמויאל\saraamoyalangular\httpC#\WebApplication2\WebApplication2\bin\roslyn\csi.exe
+Y:\00000הנדסאיות תשפ\שנה ב\בית המורה\ערב\0שרה אמויאל\saraamoyalangular\httpC#\WebApplication2\WebApplication2\bin\roslyn\csi.exe.config
+Y:\00000הנדסאיות תשפ\שנה ב\בית המורה\ערב\0שרה אמויאל\saraamoyalangular\httpC#\WebApplication2\WebApplication2\bin\roslyn\csi.rsp
+Y:\00000הנדסאיות תשפ\שנה ב\בית המורה\ערב\0שרה אמויאל\saraamoyalangular\httpC#\WebApplication2\WebApplication2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+Y:\00000הנדסאיות תשפ\שנה ב\בית המורה\ערב\0שרה אמויאל\saraamoyalangular\httpC#\WebApplication2\WebApplication2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+Y:\00000הנדסאיות תשפ\שנה ב\בית המורה\ערב\0שרה אמויאל\saraamoyalangular\httpC#\WebApplication2\WebApplication2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+Y:\00000הנדסאיות תשפ\שנה ב\בית המורה\ערב\0שרה אמויאל\saraamoyalangular\httpC#\WebApplication2\WebApplication2\bin\roslyn\Microsoft.CodeAnalysis.dll
+Y:\00000הנדסאיות תשפ\שנה ב\בית המורה\ערב\0שרה אמויאל\saraamoyalangular\httpC#\WebApplication2\WebApplication2\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+Y:\00000הנדסאיות תשפ\שנה ב\בית המורה\ערב\0שרה אמויאל\saraamoyalangular\httpC#\WebApplication2\WebApplication2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+Y:\00000הנדסאיות תשפ\שנה ב\בית המורה\ערב\0שרה אמויאל\saraamoyalangular\httpC#\WebApplication2\WebApplication2\bin\roslyn\Microsoft.CSharp.Core.targets
+Y:\00000הנדסאיות תשפ\שנה ב\בית המורה\ערב\0שרה אמויאל\saraamoyalangular\httpC#\WebApplication2\WebApplication2\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+Y:\00000הנדסאיות תשפ\שנה ב\בית המורה\ערב\0שרה אמויאל\saraamoyalangular\httpC#\WebApplication2\WebApplication2\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+Y:\00000הנדסאיות תשפ\שנה ב\בית המורה\ערב\0שרה אמויאל\saraamoyalangular\httpC#\WebApplication2\WebApplication2\bin\roslyn\Microsoft.Managed.Core.targets
+Y:\00000הנדסאיות תשפ\שנה ב\בית המורה\ערב\0שרה אמויאל\saraamoyalangular\httpC#\WebApplication2\WebApplication2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+Y:\00000הנדסאיות תשפ\שנה ב\בית המורה\ערב\0שרה אמויאל\saraamoyalangular\httpC#\WebApplication2\WebApplication2\bin\roslyn\System.AppContext.dll
+Y:\00000הנדסאיות תשפ\שנה ב\בית המורה\ערב\0שרה אמויאל\saraamoyalangular\httpC#\WebApplication2\WebApplication2\bin\roslyn\System.Collections.Immutable.dll
+Y:\00000הנדסאיות תשפ\שנה ב\בית המורה\ערב\0שרה אמויאל\saraamoyalangular\httpC#\WebApplication2\WebApplication2\bin\roslyn\System.Console.dll
+Y:\00000הנדסאיות תשפ\שנה ב\בית המורה\ערב\0שרה אמויאל\saraamoyalangular\httpC#\WebApplication2\WebApplication2\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+Y:\00000הנדסאיות תשפ\שנה ב\בית המורה\ערב\0שרה אמויאל\saraamoyalangular\httpC#\WebApplication2\WebApplication2\bin\roslyn\System.Diagnostics.StackTrace.dll
+Y:\00000הנדסאיות תשפ\שנה ב\בית המורה\ערב\0שרה אמויאל\saraamoyalangular\httpC#\WebApplication2\WebApplication2\bin\roslyn\System.IO.Compression.dll
+Y:\00000הנדסאיות תשפ\שנה ב\בית המורה\ערב\0שרה אמויאל\saraamoyalangular\httpC#\WebApplication2\WebApplication2\bin\roslyn\System.IO.FileSystem.dll
+Y:\00000הנדסאיות תשפ\שנה ב\בית המורה\ערב\0שרה אמויאל\saraamoyalangular\httpC#\WebApplication2\WebApplication2\bin\roslyn\System.IO.FileSystem.Primitives.dll
+Y:\00000הנדסאיות תשפ\שנה ב\בית המורה\ערב\0שרה אמויאל\saraamoyalangular\httpC#\WebApplication2\WebApplication2\bin\roslyn\System.IO.Pipes.AccessControl.dll
+Y:\00000הנדסאיות תשפ\שנה ב\בית המורה\ערב\0שרה אמויאל\saraamoyalangular\httpC#\WebApplication2\WebApplication2\bin\roslyn\System.IO.Pipes.dll
+Y:\00000הנדסאיות תשפ\שנה ב\בית המורה\ערב\0שרה אמויאל\saraamoyalangular\httpC#\WebApplication2\WebApplication2\bin\roslyn\System.Reflection.Metadata.dll
+Y:\00000הנדסאיות תשפ\שנה ב\בית המורה\ערב\0שרה אמויאל\saraamoyalangular\httpC#\WebApplication2\WebApplication2\bin\roslyn\System.Security.AccessControl.dll
+Y:\00000הנדסאיות תשפ\שנה ב\בית המורה\ערב\0שרה אמויאל\saraamoyalangular\httpC#\WebApplication2\WebApplication2\bin\roslyn\System.Security.Claims.dll
+Y:\00000הנדסאיות תשפ\שנה ב\בית המורה\ערב\0שרה אמויאל\saraamoyalangular\httpC#\WebApplication2\WebApplication2\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+Y:\00000הנדסאיות תשפ\שנה ב\בית המורה\ערב\0שרה אמויאל\saraamoyalangular\httpC#\WebApplication2\WebApplication2\bin\roslyn\System.Security.Cryptography.Encoding.dll
+Y:\00000הנדסאיות תשפ\שנה ב\בית המורה\ערב\0שרה אמויאל\saraamoyalangular\httpC#\WebApplication2\WebApplication2\bin\roslyn\System.Security.Cryptography.Primitives.dll
+Y:\00000הנדסאיות תשפ\שנה ב\בית המורה\ערב\0שרה אמויאל\saraamoyalangular\httpC#\WebApplication2\WebApplication2\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+Y:\00000הנדסאיות תשפ\שנה ב\בית המורה\ערב\0שרה אמויאל\saraamoyalangular\httpC#\WebApplication2\WebApplication2\bin\roslyn\System.Security.Principal.Windows.dll
+Y:\00000הנדסאיות תשפ\שנה ב\בית המורה\ערב\0שרה אמויאל\saraamoyalangular\httpC#\WebApplication2\WebApplication2\bin\roslyn\System.Text.Encoding.CodePages.dll
+Y:\00000הנדסאיות תשפ\שנה ב\בית המורה\ערב\0שרה אמויאל\saraamoyalangular\httpC#\WebApplication2\WebApplication2\bin\roslyn\System.ValueTuple.dll
+Y:\00000הנדסאיות תשפ\שנה ב\בית המורה\ערב\0שרה אמויאל\saraamoyalangular\httpC#\WebApplication2\WebApplication2\bin\roslyn\System.Xml.ReaderWriter.dll
+Y:\00000הנדסאיות תשפ\שנה ב\בית המורה\ערב\0שרה אמויאל\saraamoyalangular\httpC#\WebApplication2\WebApplication2\bin\roslyn\System.Xml.XmlDocument.dll
+Y:\00000הנדסאיות תשפ\שנה ב\בית המורה\ערב\0שרה אמויאל\saraamoyalangular\httpC#\WebApplication2\WebApplication2\bin\roslyn\System.Xml.XPath.dll
+Y:\00000הנדסאיות תשפ\שנה ב\בית המורה\ערב\0שרה אמויאל\saraamoyalangular\httpC#\WebApplication2\WebApplication2\bin\roslyn\System.Xml.XPath.XDocument.dll
+Y:\00000הנדסאיות תשפ\שנה ב\בית המורה\ערב\0שרה אמויאל\saraamoyalangular\httpC#\WebApplication2\WebApplication2\bin\roslyn\vbc.exe
+Y:\00000הנדסאיות תשפ\שנה ב\בית המורה\ערב\0שרה אמויאל\saraamoyalangular\httpC#\WebApplication2\WebApplication2\bin\roslyn\vbc.exe.config
+Y:\00000הנדסאיות תשפ\שנה ב\בית המורה\ערב\0שרה אמויאל\saraamoyalangular\httpC#\WebApplication2\WebApplication2\bin\roslyn\vbc.rsp
+Y:\00000הנדסאיות תשפ\שנה ב\בית המורה\ערב\0שרה אמויאל\saraamoyalangular\httpC#\WebApplication2\WebApplication2\bin\roslyn\VBCSCompiler.exe
+Y:\00000הנדסאיות תשפ\שנה ב\בית המורה\ערב\0שרה אמויאל\saraamoyalangular\httpC#\WebApplication2\WebApplication2\bin\roslyn\VBCSCompiler.exe.config
+Y:\00000הנדסאיות תשפ\שנה ב\בית המורה\ערב\0שרה אמויאל\saraamoyalangular\httpC#\WebApplication2\WebApplication2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+Y:\00000הנדסאיות תשפ\שנה ב\בית המורה\ערב\0שרה אמויאל\saraamoyalangular\httpC#\WebApplication2\WebApplication2\bin\Newtonsoft.Json.dll
+Y:\00000הנדסאיות תשפ\שנה ב\בית המורה\ערב\0שרה אמויאל\saraamoyalangular\httpC#\WebApplication2\WebApplication2\bin\System.Net.Http.Formatting.dll
+Y:\00000הנדסאיות תשפ\שנה ב\בית המורה\ערב\0שרה אמויאל\saraamoyalangular\httpC#\WebApplication2\WebApplication2\bin\System.Web.Http.dll
+Y:\00000הנדסאיות תשפ\שנה ב\בית המורה\ערב\0שרה אמויאל\saraamoyalangular\httpC#\WebApplication2\WebApplication2\bin\System.Web.Http.WebHost.dll
+Y:\00000הנדסאיות תשפ\שנה ב\בית המורה\ערב\0שרה אמויאל\saraamoyalangular\httpC#\WebApplication2\WebApplication2\bin\Newtonsoft.Json.xml
+Y:\00000הנדסאיות תשפ\שנה ב\בית המורה\ערב\0שרה אמויאל\saraamoyalangular\httpC#\WebApplication2\WebApplication2\bin\System.Net.Http.Formatting.xml
+Y:\00000הנדסאיות תשפ\שנה ב\בית המורה\ערב\0שרה אמויאל\saraamoyalangular\httpC#\WebApplication2\WebApplication2\bin\System.Web.Http.xml
+Y:\00000הנדסאיות תשפ\שנה ב\בית המורה\ערב\0שרה אמויאל\saraamoyalangular\httpC#\WebApplication2\WebApplication2\bin\System.Web.Http.WebHost.xml
+Y:\00000הנדסאיות תשפ\שנה ב\בית המורה\ערב\0שרה אמויאל\saraamoyalangular\httpC#\WebApplication2\WebApplication2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+Y:\00000הנדסאיות תשפ\שנה ב\בית המורה\ערב\0שרה אמויאל\saraamoyalangular\httpC#\WebApplication2\WebApplication2\obj\Debug\WebApplication2.csprojAssemblyReference.cache
+Y:\00000הנדסאיות תשפ\שנה ב\בית המורה\ערב\0שרה אמויאל\saraamoyalangular\httpC#\WebApplication2\WebApplication2\obj\Debug\WebApplication2.csproj.CoreCompileInputs.cache
+Y:\00000הנדסאיות תשפ\שנה ב\בית המורה\ערב\0שרה אמויאל\saraamoyalangular\httpC#\WebApplication2\WebApplication2\obj\Debug\WebApplication2.csproj.CopyComplete
+Y:\00000הנדסאיות תשפ\שנה ב\בית המורה\ערב\0שרה אמויאל\saraamoyalangular\httpC#\WebApplication2\WebApplication2\obj\Debug\WebApplication2.dll
+Y:\00000הנדסאיות תשפ\שנה ב\בית המורה\ערב\0שרה אמויאל\saraamoyalangular\httpC#\WebApplication2\WebApplication2\obj\Debug\WebApplication2.pdb
+Y:\חדש-הנדסת תוכנה\שנה ב\מויאל שרה\saraamoyalangular\projectBCD\WebApplication2\WebApplication2\obj\Debug\WebApplication2.csproj.CoreCompileInputs.cache
+Y:\חדש-הנדסת תוכנה\שנה ב\מויאל שרה\saraamoyalangular\projectBCD\WebApplication2\WebApplication2\obj\Debug\WebApplication2.dll
+Y:\חדש-הנדסת תוכנה\שנה ב\מויאל שרה\saraamoyalangular\projectBCD\WebApplication2\WebApplication2\obj\Debug\WebApplication2.pdb
+Y:\חדש-הנדסת תוכנה\שנה ב\מויאל שרה\saraamoyalangular\projectBCD\WebApplication2\WebApplication2\bin\WebApplication2.dll.config
+Y:\חדש-הנדסת תוכנה\שנה ב\מויאל שרה\saraamoyalangular\projectBCD\WebApplication2\WebApplication2\bin\WebApplication2.dll
+Y:\חדש-הנדסת תוכנה\שנה ב\מויאל שרה\saraamoyalangular\projectBCD\WebApplication2\WebApplication2\bin\WebApplication2.pdb
+Y:\חדש-הנדסת תוכנה\שנה ב\מויאל שרה\saraamoyalangular\projectBCD\WebApplication2\WebApplication2\bin\roslyn\csc.exe
+Y:\חדש-הנדסת תוכנה\שנה ב\מויאל שרה\saraamoyalangular\projectBCD\WebApplication2\WebApplication2\bin\roslyn\csc.exe.config
+Y:\חדש-הנדסת תוכנה\שנה ב\מויאל שרה\saraamoyalangular\projectBCD\WebApplication2\WebApplication2\bin\roslyn\csc.rsp
+Y:\חדש-הנדסת תוכנה\שנה ב\מויאל שרה\saraamoyalangular\projectBCD\WebApplication2\WebApplication2\bin\roslyn\csi.exe
+Y:\חדש-הנדסת תוכנה\שנה ב\מויאל שרה\saraamoyalangular\projectBCD\WebApplication2\WebApplication2\bin\roslyn\csi.exe.config
+Y:\חדש-הנדסת תוכנה\שנה ב\מויאל שרה\saraamoyalangular\projectBCD\WebApplication2\WebApplication2\bin\roslyn\csi.rsp
+Y:\חדש-הנדסת תוכנה\שנה ב\מויאל שרה\saraamoyalangular\projectBCD\WebApplication2\WebApplication2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+Y:\חדש-הנדסת תוכנה\שנה ב\מויאל שרה\saraamoyalangular\projectBCD\WebApplication2\WebApplication2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+Y:\חדש-הנדסת תוכנה\שנה ב\מויאל שרה\saraamoyalangular\projectBCD\WebApplication2\WebApplication2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+Y:\חדש-הנדסת תוכנה\שנה ב\מויאל שרה\saraamoyalangular\projectBCD\WebApplication2\WebApplication2\bin\roslyn\Microsoft.CodeAnalysis.dll
+Y:\חדש-הנדסת תוכנה\שנה ב\מויאל שרה\saraamoyalangular\projectBCD\WebApplication2\WebApplication2\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+Y:\חדש-הנדסת תוכנה\שנה ב\מויאל שרה\saraamoyalangular\projectBCD\WebApplication2\WebApplication2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+Y:\חדש-הנדסת תוכנה\שנה ב\מויאל שרה\saraamoyalangular\projectBCD\WebApplication2\WebApplication2\bin\roslyn\Microsoft.CSharp.Core.targets
+Y:\חדש-הנדסת תוכנה\שנה ב\מויאל שרה\saraamoyalangular\projectBCD\WebApplication2\WebApplication2\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+Y:\חדש-הנדסת תוכנה\שנה ב\מויאל שרה\saraamoyalangular\projectBCD\WebApplication2\WebApplication2\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+Y:\חדש-הנדסת תוכנה\שנה ב\מויאל שרה\saraamoyalangular\projectBCD\WebApplication2\WebApplication2\bin\roslyn\Microsoft.Managed.Core.targets
+Y:\חדש-הנדסת תוכנה\שנה ב\מויאל שרה\saraamoyalangular\projectBCD\WebApplication2\WebApplication2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+Y:\חדש-הנדסת תוכנה\שנה ב\מויאל שרה\saraamoyalangular\projectBCD\WebApplication2\WebApplication2\bin\roslyn\System.AppContext.dll
+Y:\חדש-הנדסת תוכנה\שנה ב\מויאל שרה\saraamoyalangular\projectBCD\WebApplication2\WebApplication2\bin\roslyn\System.Collections.Immutable.dll
+Y:\חדש-הנדסת תוכנה\שנה ב\מויאל שרה\saraamoyalangular\projectBCD\WebApplication2\WebApplication2\bin\roslyn\System.Console.dll
+Y:\חדש-הנדסת תוכנה\שנה ב\מויאל שרה\saraamoyalangular\projectBCD\WebApplication2\WebApplication2\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+Y:\חדש-הנדסת תוכנה\שנה ב\מויאל שרה\saraamoyalangular\projectBCD\WebApplication2\WebApplication2\bin\roslyn\System.Diagnostics.StackTrace.dll
+Y:\חדש-הנדסת תוכנה\שנה ב\מויאל שרה\saraamoyalangular\projectBCD\WebApplication2\WebApplication2\bin\roslyn\System.IO.Compression.dll
+Y:\חדש-הנדסת תוכנה\שנה ב\מויאל שרה\saraamoyalangular\projectBCD\WebApplication2\WebApplication2\bin\roslyn\System.IO.FileSystem.dll
+Y:\חדש-הנדסת תוכנה\שנה ב\מויאל שרה\saraamoyalangular\projectBCD\WebApplication2\WebApplication2\bin\roslyn\System.IO.FileSystem.Primitives.dll
+Y:\חדש-הנדסת תוכנה\שנה ב\מויאל שרה\saraamoyalangular\projectBCD\WebApplication2\WebApplication2\bin\roslyn\System.IO.Pipes.AccessControl.dll
+Y:\חדש-הנדסת תוכנה\שנה ב\מויאל שרה\saraamoyalangular\projectBCD\WebApplication2\WebApplication2\bin\roslyn\System.IO.Pipes.dll
+Y:\חדש-הנדסת תוכנה\שנה ב\מויאל שרה\saraamoyalangular\projectBCD\WebApplication2\WebApplication2\bin\roslyn\System.Reflection.Metadata.dll
+Y:\חדש-הנדסת תוכנה\שנה ב\מויאל שרה\saraamoyalangular\projectBCD\WebApplication2\WebApplication2\bin\roslyn\System.Security.AccessControl.dll
+Y:\חדש-הנדסת תוכנה\שנה ב\מויאל שרה\saraamoyalangular\projectBCD\WebApplication2\WebApplication2\bin\roslyn\System.Security.Claims.dll
+Y:\חדש-הנדסת תוכנה\שנה ב\מויאל שרה\saraamoyalangular\projectBCD\WebApplication2\WebApplication2\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+Y:\חדש-הנדסת תוכנה\שנה ב\מויאל שרה\saraamoyalangular\projectBCD\WebApplication2\WebApplication2\bin\roslyn\System.Security.Cryptography.Encoding.dll
+Y:\חדש-הנדסת תוכנה\שנה ב\מויאל שרה\saraamoyalangular\projectBCD\WebApplication2\WebApplication2\bin\roslyn\System.Security.Cryptography.Primitives.dll
+Y:\חדש-הנדסת תוכנה\שנה ב\מויאל שרה\saraamoyalangular\projectBCD\WebApplication2\WebApplication2\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+Y:\חדש-הנדסת תוכנה\שנה ב\מויאל שרה\saraamoyalangular\projectBCD\WebApplication2\WebApplication2\bin\roslyn\System.Security.Principal.Windows.dll
+Y:\חדש-הנדסת תוכנה\שנה ב\מויאל שרה\saraamoyalangular\projectBCD\WebApplication2\WebApplication2\bin\roslyn\System.Text.Encoding.CodePages.dll
+Y:\חדש-הנדסת תוכנה\שנה ב\מויאל שרה\saraamoyalangular\projectBCD\WebApplication2\WebApplication2\bin\roslyn\System.ValueTuple.dll
+Y:\חדש-הנדסת תוכנה\שנה ב\מויאל שרה\saraamoyalangular\projectBCD\WebApplication2\WebApplication2\bin\roslyn\System.Xml.ReaderWriter.dll
+Y:\חדש-הנדסת תוכנה\שנה ב\מויאל שרה\saraamoyalangular\projectBCD\WebApplication2\WebApplication2\bin\roslyn\System.Xml.XmlDocument.dll
+Y:\חדש-הנדסת תוכנה\שנה ב\מויאל שרה\saraamoyalangular\projectBCD\WebApplication2\WebApplication2\bin\roslyn\System.Xml.XPath.dll
+Y:\חדש-הנדסת תוכנה\שנה ב\מויאל שרה\saraamoyalangular\projectBCD\WebApplication2\WebApplication2\bin\roslyn\System.Xml.XPath.XDocument.dll
+Y:\חדש-הנדסת תוכנה\שנה ב\מויאל שרה\saraamoyalangular\projectBCD\WebApplication2\WebApplication2\bin\roslyn\vbc.exe
+Y:\חדש-הנדסת תוכנה\שנה ב\מויאל שרה\saraamoyalangular\projectBCD\WebApplication2\WebApplication2\bin\roslyn\vbc.exe.config
+Y:\חדש-הנדסת תוכנה\שנה ב\מויאל שרה\saraamoyalangular\projectBCD\WebApplication2\WebApplication2\bin\roslyn\vbc.rsp
+Y:\חדש-הנדסת תוכנה\שנה ב\מויאל שרה\saraamoyalangular\projectBCD\WebApplication2\WebApplication2\bin\roslyn\VBCSCompiler.exe
+Y:\חדש-הנדסת תוכנה\שנה ב\מויאל שרה\saraamoyalangular\projectBCD\WebApplication2\WebApplication2\bin\roslyn\VBCSCompiler.exe.config
+Y:\חדש-הנדסת תוכנה\שנה ב\מויאל שרה\saraamoyalangular\projectBCD\WebApplication2\WebApplication2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+Y:\חדש-הנדסת תוכנה\שנה ב\מויאל שרה\saraamoyalangular\projectBCD\WebApplication2\WebApplication2\bin\Newtonsoft.Json.dll
+Y:\חדש-הנדסת תוכנה\שנה ב\מויאל שרה\saraamoyalangular\projectBCD\WebApplication2\WebApplication2\bin\System.Net.Http.Formatting.dll
+Y:\חדש-הנדסת תוכנה\שנה ב\מויאל שרה\saraamoyalangular\projectBCD\WebApplication2\WebApplication2\bin\System.Web.Cors.dll
+Y:\חדש-הנדסת תוכנה\שנה ב\מויאל שרה\saraamoyalangular\projectBCD\WebApplication2\WebApplication2\bin\System.Web.Http.Cors.dll
+Y:\חדש-הנדסת תוכנה\שנה ב\מויאל שרה\saraamoyalangular\projectBCD\WebApplication2\WebApplication2\bin\System.Web.Http.dll
+Y:\חדש-הנדסת תוכנה\שנה ב\מויאל שרה\saraamoyalangular\projectBCD\WebApplication2\WebApplication2\bin\System.Web.Http.WebHost.dll
+Y:\חדש-הנדסת תוכנה\שנה ב\מויאל שרה\saraamoyalangular\projectBCD\WebApplication2\WebApplication2\bin\System.Net.Http.Formatting.xml
+Y:\חדש-הנדסת תוכנה\שנה ב\מויאל שרה\saraamoyalangular\projectBCD\WebApplication2\WebApplication2\bin\System.Web.Http.xml
+Y:\חדש-הנדסת תוכנה\שנה ב\מויאל שרה\saraamoyalangular\projectBCD\WebApplication2\WebApplication2\bin\System.Web.Http.Cors.xml
+Y:\חדש-הנדסת תוכנה\שנה ב\מויאל שרה\saraamoyalangular\projectBCD\WebApplication2\WebApplication2\bin\Newtonsoft.Json.xml
+Y:\חדש-הנדסת תוכנה\שנה ב\מויאל שרה\saraamoyalangular\projectBCD\WebApplication2\WebApplication2\bin\System.Web.Http.WebHost.xml
+Y:\חדש-הנדסת תוכנה\שנה ב\מויאל שרה\saraamoyalangular\projectBCD\WebApplication2\WebApplication2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+Y:\חדש-הנדסת תוכנה\שנה ב\מויאל שרה\saraamoyalangular\projectBCD\WebApplication2\WebApplication2\obj\Debug\WebApplication2.csproj.CopyComplete
+Y:\חדש-הנדסת תוכנה\שנה ב\מויאל שרה\saraamoyalangular\projectBCD\WebApplication2\WebApplication2\obj\Debug\WebApplication2.csprojAssemblyReference.cache
+Y:\חדש-הנדסת תוכנה\שנה ב\אמויאל שרה\saraamoyalangular\projectBCD\WebApplication2\WebApplication2\bin\WebApplication2.dll.config
+Y:\חדש-הנדסת תוכנה\שנה ב\אמויאל שרה\saraamoyalangular\projectBCD\WebApplication2\WebApplication2\bin\WebApplication2.dll
+Y:\חדש-הנדסת תוכנה\שנה ב\אמויאל שרה\saraamoyalangular\projectBCD\WebApplication2\WebApplication2\bin\WebApplication2.pdb
+Y:\חדש-הנדסת תוכנה\שנה ב\אמויאל שרה\saraamoyalangular\projectBCD\WebApplication2\WebApplication2\bin\roslyn\csc.exe
+Y:\חדש-הנדסת תוכנה\שנה ב\אמויאל שרה\saraamoyalangular\projectBCD\WebApplication2\WebApplication2\bin\roslyn\csc.exe.config
+Y:\חדש-הנדסת תוכנה\שנה ב\אמויאל שרה\saraamoyalangular\projectBCD\WebApplication2\WebApplication2\bin\roslyn\csc.rsp
+Y:\חדש-הנדסת תוכנה\שנה ב\אמויאל שרה\saraamoyalangular\projectBCD\WebApplication2\WebApplication2\bin\roslyn\csi.exe
+Y:\חדש-הנדסת תוכנה\שנה ב\אמויאל שרה\saraamoyalangular\projectBCD\WebApplication2\WebApplication2\bin\roslyn\csi.exe.config
+Y:\חדש-הנדסת תוכנה\שנה ב\אמויאל שרה\saraamoyalangular\projectBCD\WebApplication2\WebApplication2\bin\roslyn\csi.rsp
+Y:\חדש-הנדסת תוכנה\שנה ב\אמויאל שרה\saraamoyalangular\projectBCD\WebApplication2\WebApplication2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+Y:\חדש-הנדסת תוכנה\שנה ב\אמויאל שרה\saraamoyalangular\projectBCD\WebApplication2\WebApplication2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+Y:\חדש-הנדסת תוכנה\שנה ב\אמויאל שרה\saraamoyalangular\projectBCD\WebApplication2\WebApplication2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+Y:\חדש-הנדסת תוכנה\שנה ב\אמויאל שרה\saraamoyalangular\projectBCD\WebApplication2\WebApplication2\bin\roslyn\Microsoft.CodeAnalysis.dll
+Y:\חדש-הנדסת תוכנה\שנה ב\אמויאל שרה\saraamoyalangular\projectBCD\WebApplication2\WebApplication2\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+Y:\חדש-הנדסת תוכנה\שנה ב\אמויאל שרה\saraamoyalangular\projectBCD\WebApplication2\WebApplication2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+Y:\חדש-הנדסת תוכנה\שנה ב\אמויאל שרה\saraamoyalangular\projectBCD\WebApplication2\WebApplication2\bin\roslyn\Microsoft.CSharp.Core.targets
+Y:\חדש-הנדסת תוכנה\שנה ב\אמויאל שרה\saraamoyalangular\projectBCD\WebApplication2\WebApplication2\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+Y:\חדש-הנדסת תוכנה\שנה ב\אמויאל שרה\saraamoyalangular\projectBCD\WebApplication2\WebApplication2\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+Y:\חדש-הנדסת תוכנה\שנה ב\אמויאל שרה\saraamoyalangular\projectBCD\WebApplication2\WebApplication2\bin\roslyn\Microsoft.Managed.Core.targets
+Y:\חדש-הנדסת תוכנה\שנה ב\אמויאל שרה\saraamoyalangular\projectBCD\WebApplication2\WebApplication2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+Y:\חדש-הנדסת תוכנה\שנה ב\אמויאל שרה\saraamoyalangular\projectBCD\WebApplication2\WebApplication2\bin\roslyn\System.AppContext.dll
+Y:\חדש-הנדסת תוכנה\שנה ב\אמויאל שרה\saraamoyalangular\projectBCD\WebApplication2\WebApplication2\bin\roslyn\System.Collections.Immutable.dll
+Y:\חדש-הנדסת תוכנה\שנה ב\אמויאל שרה\saraamoyalangular\projectBCD\WebApplication2\WebApplication2\bin\roslyn\System.Console.dll
+Y:\חדש-הנדסת תוכנה\שנה ב\אמויאל שרה\saraamoyalangular\projectBCD\WebApplication2\WebApplication2\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+Y:\חדש-הנדסת תוכנה\שנה ב\אמויאל שרה\saraamoyalangular\projectBCD\WebApplication2\WebApplication2\bin\roslyn\System.Diagnostics.StackTrace.dll
+Y:\חדש-הנדסת תוכנה\שנה ב\אמויאל שרה\saraamoyalangular\projectBCD\WebApplication2\WebApplication2\bin\roslyn\System.IO.Compression.dll
+Y:\חדש-הנדסת תוכנה\שנה ב\אמויאל שרה\saraamoyalangular\projectBCD\WebApplication2\WebApplication2\bin\roslyn\System.IO.FileSystem.dll
+Y:\חדש-הנדסת תוכנה\שנה ב\אמויאל שרה\saraamoyalangular\projectBCD\WebApplication2\WebApplication2\bin\roslyn\System.IO.FileSystem.Primitives.dll
+Y:\חדש-הנדסת תוכנה\שנה ב\אמויאל שרה\saraamoyalangular\projectBCD\WebApplication2\WebApplication2\bin\roslyn\System.IO.Pipes.AccessControl.dll
+Y:\חדש-הנדסת תוכנה\שנה ב\אמויאל שרה\saraamoyalangular\projectBCD\WebApplication2\WebApplication2\bin\roslyn\System.IO.Pipes.dll
+Y:\חדש-הנדסת תוכנה\שנה ב\אמויאל שרה\saraamoyalangular\projectBCD\WebApplication2\WebApplication2\bin\roslyn\System.Reflection.Metadata.dll
+Y:\חדש-הנדסת תוכנה\שנה ב\אמויאל שרה\saraamoyalangular\projectBCD\WebApplication2\WebApplication2\bin\roslyn\System.Security.AccessControl.dll
+Y:\חדש-הנדסת תוכנה\שנה ב\אמויאל שרה\saraamoyalangular\projectBCD\WebApplication2\WebApplication2\bin\roslyn\System.Security.Claims.dll
+Y:\חדש-הנדסת תוכנה\שנה ב\אמויאל שרה\saraamoyalangular\projectBCD\WebApplication2\WebApplication2\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+Y:\חדש-הנדסת תוכנה\שנה ב\אמויאל שרה\saraamoyalangular\projectBCD\WebApplication2\WebApplication2\bin\roslyn\System.Security.Cryptography.Encoding.dll
+Y:\חדש-הנדסת תוכנה\שנה ב\אמויאל שרה\saraamoyalangular\projectBCD\WebApplication2\WebApplication2\bin\roslyn\System.Security.Cryptography.Primitives.dll
+Y:\חדש-הנדסת תוכנה\שנה ב\אמויאל שרה\saraamoyalangular\projectBCD\WebApplication2\WebApplication2\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+Y:\חדש-הנדסת תוכנה\שנה ב\אמויאל שרה\saraamoyalangular\projectBCD\WebApplication2\WebApplication2\bin\roslyn\System.Security.Principal.Windows.dll
+Y:\חדש-הנדסת תוכנה\שנה ב\אמויאל שרה\saraamoyalangular\projectBCD\WebApplication2\WebApplication2\bin\roslyn\System.Text.Encoding.CodePages.dll
+Y:\חדש-הנדסת תוכנה\שנה ב\אמויאל שרה\saraamoyalangular\projectBCD\WebApplication2\WebApplication2\bin\roslyn\System.ValueTuple.dll
+Y:\חדש-הנדסת תוכנה\שנה ב\אמויאל שרה\saraamoyalangular\projectBCD\WebApplication2\WebApplication2\bin\roslyn\System.Xml.ReaderWriter.dll
+Y:\חדש-הנדסת תוכנה\שנה ב\אמויאל שרה\saraamoyalangular\projectBCD\WebApplication2\WebApplication2\bin\roslyn\System.Xml.XmlDocument.dll
+Y:\חדש-הנדסת תוכנה\שנה ב\אמויאל שרה\saraamoyalangular\projectBCD\WebApplication2\WebApplication2\bin\roslyn\System.Xml.XPath.dll
+Y:\חדש-הנדסת תוכנה\שנה ב\אמויאל שרה\saraamoyalangular\projectBCD\WebApplication2\WebApplication2\bin\roslyn\System.Xml.XPath.XDocument.dll
+Y:\חדש-הנדסת תוכנה\שנה ב\אמויאל שרה\saraamoyalangular\projectBCD\WebApplication2\WebApplication2\bin\roslyn\vbc.exe
+Y:\חדש-הנדסת תוכנה\שנה ב\אמויאל שרה\saraamoyalangular\projectBCD\WebApplication2\WebApplication2\bin\roslyn\vbc.exe.config
+Y:\חדש-הנדסת תוכנה\שנה ב\אמויאל שרה\saraamoyalangular\projectBCD\WebApplication2\WebApplication2\bin\roslyn\vbc.rsp
+Y:\חדש-הנדסת תוכנה\שנה ב\אמויאל שרה\saraamoyalangular\projectBCD\WebApplication2\WebApplication2\bin\roslyn\VBCSCompiler.exe
+Y:\חדש-הנדסת תוכנה\שנה ב\אמויאל שרה\saraamoyalangular\projectBCD\WebApplication2\WebApplication2\bin\roslyn\VBCSCompiler.exe.config
+Y:\חדש-הנדסת תוכנה\שנה ב\אמויאל שרה\saraamoyalangular\projectBCD\WebApplication2\WebApplication2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+Y:\חדש-הנדסת תוכנה\שנה ב\אמויאל שרה\saraamoyalangular\projectBCD\WebApplication2\WebApplication2\bin\Newtonsoft.Json.dll
+Y:\חדש-הנדסת תוכנה\שנה ב\אמויאל שרה\saraamoyalangular\projectBCD\WebApplication2\WebApplication2\bin\System.Net.Http.Formatting.dll
+Y:\חדש-הנדסת תוכנה\שנה ב\אמויאל שרה\saraamoyalangular\projectBCD\WebApplication2\WebApplication2\bin\System.Web.Cors.dll
+Y:\חדש-הנדסת תוכנה\שנה ב\אמויאל שרה\saraamoyalangular\projectBCD\WebApplication2\WebApplication2\bin\System.Web.Http.Cors.dll
+Y:\חדש-הנדסת תוכנה\שנה ב\אמויאל שרה\saraamoyalangular\projectBCD\WebApplication2\WebApplication2\bin\System.Web.Http.dll
+Y:\חדש-הנדסת תוכנה\שנה ב\אמויאל שרה\saraamoyalangular\projectBCD\WebApplication2\WebApplication2\bin\System.Web.Http.WebHost.dll
+Y:\חדש-הנדסת תוכנה\שנה ב\אמויאל שרה\saraamoyalangular\projectBCD\WebApplication2\WebApplication2\bin\System.Net.Http.Formatting.xml
+Y:\חדש-הנדסת תוכנה\שנה ב\אמויאל שרה\saraamoyalangular\projectBCD\WebApplication2\WebApplication2\bin\System.Web.Http.xml
+Y:\חדש-הנדסת תוכנה\שנה ב\אמויאל שרה\saraamoyalangular\projectBCD\WebApplication2\WebApplication2\bin\System.Web.Http.Cors.xml
+Y:\חדש-הנדסת תוכנה\שנה ב\אמויאל שרה\saraamoyalangular\projectBCD\WebApplication2\WebApplication2\bin\Newtonsoft.Json.xml
+Y:\חדש-הנדסת תוכנה\שנה ב\אמויאל שרה\saraamoyalangular\projectBCD\WebApplication2\WebApplication2\bin\System.Web.Http.WebHost.xml
+Y:\חדש-הנדסת תוכנה\שנה ב\אמויאל שרה\saraamoyalangular\projectBCD\WebApplication2\WebApplication2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+Y:\חדש-הנדסת תוכנה\שנה ב\אמויאל שרה\saraamoyalangular\projectBCD\WebApplication2\WebApplication2\obj\Debug\WebApplication2.dll
+Y:\חדש-הנדסת תוכנה\שנה ב\אמויאל שרה\saraamoyalangular\projectBCD\WebApplication2\WebApplication2\obj\Debug\WebApplication2.pdb
+Y:\חדש-הנדסת תוכנה\שנה ב\אמויאל שרה\saraamoyalangular\projectBCD\WebApplication2\WebApplication2\bin\Antlr3.Runtime.dll
+Y:\חדש-הנדסת תוכנה\שנה ב\אמויאל שרה\saraamoyalangular\projectBCD\WebApplication2\WebApplication2\bin\Microsoft.Web.Infrastructure.dll
+Y:\חדש-הנדסת תוכנה\שנה ב\אמויאל שרה\saraamoyalangular\projectBCD\WebApplication2\WebApplication2\bin\System.Web.Helpers.dll
+Y:\חדש-הנדסת תוכנה\שנה ב\אמויאל שרה\saraamoyalangular\projectBCD\WebApplication2\WebApplication2\bin\System.Web.Mvc.dll
+Y:\חדש-הנדסת תוכנה\שנה ב\אמויאל שרה\saraamoyalangular\projectBCD\WebApplication2\WebApplication2\bin\System.Web.Optimization.dll
+Y:\חדש-הנדסת תוכנה\שנה ב\אמויאל שרה\saraamoyalangular\projectBCD\WebApplication2\WebApplication2\bin\System.Web.Razor.dll
+Y:\חדש-הנדסת תוכנה\שנה ב\אמויאל שרה\saraamoyalangular\projectBCD\WebApplication2\WebApplication2\bin\System.Web.WebPages.Deployment.dll
+Y:\חדש-הנדסת תוכנה\שנה ב\אמויאל שרה\saraamoyalangular\projectBCD\WebApplication2\WebApplication2\bin\System.Web.WebPages.dll
+Y:\חדש-הנדסת תוכנה\שנה ב\אמויאל שרה\saraamoyalangular\projectBCD\WebApplication2\WebApplication2\bin\System.Web.WebPages.Razor.dll
+Y:\חדש-הנדסת תוכנה\שנה ב\אמויאל שרה\saraamoyalangular\projectBCD\WebApplication2\WebApplication2\bin\WebGrease.dll
+Y:\חדש-הנדסת תוכנה\שנה ב\אמויאל שרה\saraamoyalangular\projectBCD\WebApplication2\WebApplication2\bin\Antlr3.Runtime.pdb
+Y:\חדש-הנדסת תוכנה\שנה ב\אמויאל שרה\saraamoyalangular\projectBCD\WebApplication2\WebApplication2\bin\System.Web.Helpers.xml
+Y:\חדש-הנדסת תוכנה\שנה ב\אמויאל שרה\saraamoyalangular\projectBCD\WebApplication2\WebApplication2\bin\System.Web.Mvc.xml
+Y:\חדש-הנדסת תוכנה\שנה ב\אמויאל שרה\saraamoyalangular\projectBCD\WebApplication2\WebApplication2\bin\System.Web.Optimization.xml
+Y:\חדש-הנדסת תוכנה\שנה ב\אמויאל שרה\saraamoyalangular\projectBCD\WebApplication2\WebApplication2\bin\System.Web.Razor.xml
+Y:\חדש-הנדסת תוכנה\שנה ב\אמויאל שרה\saraamoyalangular\projectBCD\WebApplication2\WebApplication2\bin\System.Web.WebPages.xml
+Y:\חדש-הנדסת תוכנה\שנה ב\אמויאל שרה\saraamoyalangular\projectBCD\WebApplication2\WebApplication2\bin\System.Web.WebPages.Deployment.xml
+Y:\חדש-הנדסת תוכנה\שנה ב\אמויאל שרה\saraamoyalangular\projectBCD\WebApplication2\WebApplication2\bin\System.Web.WebPages.Razor.xml
+Y:\חדש-הנדסת תוכנה\שנה ב\אמויאל שרה\saraamoyalangular\projectBCD\WebApplication2\WebApplication2\obj\Debug\WebApplication2.csprojAssemblyReference.cache
+Y:\חדש-הנדסת תוכנה\שנה ב\אמויאל שרה\saraamoyalangular\projectBCD\WebApplication2\WebApplication2\obj\Debug\WebApplication2.csproj.CoreCompileInputs.cache
+Y:\חדש-הנדסת תוכנה\שנה ב\אמויאל שרה\saraamoyalangular\projectBCD\WebApplication2\WebApplication2\obj\Debug\WebApplication2.csproj.CopyComplete
+D:\angular\WebApplication2\WebApplication2\bin\WebApplication2.dll.config
+D:\angular\WebApplication2\WebApplication2\bin\WebApplication2.dll
+D:\angular\WebApplication2\WebApplication2\bin\WebApplication2.pdb
+D:\angular\WebApplication2\WebApplication2\bin\roslyn\csc.exe
+D:\angular\WebApplication2\WebApplication2\bin\roslyn\csc.exe.config
+D:\angular\WebApplication2\WebApplication2\bin\roslyn\csc.rsp
+D:\angular\WebApplication2\WebApplication2\bin\roslyn\csi.exe
+D:\angular\WebApplication2\WebApplication2\bin\roslyn\csi.exe.config
+D:\angular\WebApplication2\WebApplication2\bin\roslyn\csi.rsp
+D:\angular\WebApplication2\WebApplication2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\angular\WebApplication2\WebApplication2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\angular\WebApplication2\WebApplication2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\angular\WebApplication2\WebApplication2\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\angular\WebApplication2\WebApplication2\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\angular\WebApplication2\WebApplication2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\angular\WebApplication2\WebApplication2\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\angular\WebApplication2\WebApplication2\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\angular\WebApplication2\WebApplication2\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\angular\WebApplication2\WebApplication2\bin\roslyn\Microsoft.Managed.Core.targets
+D:\angular\WebApplication2\WebApplication2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\angular\WebApplication2\WebApplication2\bin\roslyn\System.AppContext.dll
+D:\angular\WebApplication2\WebApplication2\bin\roslyn\System.Collections.Immutable.dll
+D:\angular\WebApplication2\WebApplication2\bin\roslyn\System.Console.dll
+D:\angular\WebApplication2\WebApplication2\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\angular\WebApplication2\WebApplication2\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\angular\WebApplication2\WebApplication2\bin\roslyn\System.IO.Compression.dll
+D:\angular\WebApplication2\WebApplication2\bin\roslyn\System.IO.FileSystem.dll
+D:\angular\WebApplication2\WebApplication2\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\angular\WebApplication2\WebApplication2\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\angular\WebApplication2\WebApplication2\bin\roslyn\System.IO.Pipes.dll
+D:\angular\WebApplication2\WebApplication2\bin\roslyn\System.Reflection.Metadata.dll
+D:\angular\WebApplication2\WebApplication2\bin\roslyn\System.Security.AccessControl.dll
+D:\angular\WebApplication2\WebApplication2\bin\roslyn\System.Security.Claims.dll
+D:\angular\WebApplication2\WebApplication2\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\angular\WebApplication2\WebApplication2\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\angular\WebApplication2\WebApplication2\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\angular\WebApplication2\WebApplication2\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\angular\WebApplication2\WebApplication2\bin\roslyn\System.Security.Principal.Windows.dll
+D:\angular\WebApplication2\WebApplication2\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\angular\WebApplication2\WebApplication2\bin\roslyn\System.ValueTuple.dll
+D:\angular\WebApplication2\WebApplication2\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\angular\WebApplication2\WebApplication2\bin\roslyn\System.Xml.XmlDocument.dll
+D:\angular\WebApplication2\WebApplication2\bin\roslyn\System.Xml.XPath.dll
+D:\angular\WebApplication2\WebApplication2\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\angular\WebApplication2\WebApplication2\bin\roslyn\vbc.exe
+D:\angular\WebApplication2\WebApplication2\bin\roslyn\vbc.exe.config
+D:\angular\WebApplication2\WebApplication2\bin\roslyn\vbc.rsp
+D:\angular\WebApplication2\WebApplication2\bin\roslyn\VBCSCompiler.exe
+D:\angular\WebApplication2\WebApplication2\bin\roslyn\VBCSCompiler.exe.config
+D:\angular\WebApplication2\WebApplication2\bin\Antlr3.Runtime.dll
+D:\angular\WebApplication2\WebApplication2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\angular\WebApplication2\WebApplication2\bin\Microsoft.Web.Infrastructure.dll
+D:\angular\WebApplication2\WebApplication2\bin\Newtonsoft.Json.dll
+D:\angular\WebApplication2\WebApplication2\bin\System.Net.Http.Formatting.dll
+D:\angular\WebApplication2\WebApplication2\bin\System.Web.Cors.dll
+D:\angular\WebApplication2\WebApplication2\bin\System.Web.Helpers.dll
+D:\angular\WebApplication2\WebApplication2\bin\System.Web.Http.Cors.dll
+D:\angular\WebApplication2\WebApplication2\bin\System.Web.Http.dll
+D:\angular\WebApplication2\WebApplication2\bin\System.Web.Http.WebHost.dll
+D:\angular\WebApplication2\WebApplication2\bin\System.Web.Mvc.dll
+D:\angular\WebApplication2\WebApplication2\bin\System.Web.Optimization.dll
+D:\angular\WebApplication2\WebApplication2\bin\System.Web.Razor.dll
+D:\angular\WebApplication2\WebApplication2\bin\System.Web.WebPages.Deployment.dll
+D:\angular\WebApplication2\WebApplication2\bin\System.Web.WebPages.dll
+D:\angular\WebApplication2\WebApplication2\bin\System.Web.WebPages.Razor.dll
+D:\angular\WebApplication2\WebApplication2\bin\WebGrease.dll
+D:\angular\WebApplication2\WebApplication2\bin\Antlr3.Runtime.pdb
+D:\angular\WebApplication2\WebApplication2\bin\System.Net.Http.Formatting.xml
+D:\angular\WebApplication2\WebApplication2\bin\System.Web.Helpers.xml
+D:\angular\WebApplication2\WebApplication2\bin\System.Web.Http.xml
+D:\angular\WebApplication2\WebApplication2\bin\System.Web.Http.Cors.xml
+D:\angular\WebApplication2\WebApplication2\bin\System.Web.Mvc.xml
+D:\angular\WebApplication2\WebApplication2\bin\System.Web.Optimization.xml
+D:\angular\WebApplication2\WebApplication2\bin\System.Web.Razor.xml
+D:\angular\WebApplication2\WebApplication2\bin\System.Web.WebPages.xml
+D:\angular\WebApplication2\WebApplication2\bin\System.Web.WebPages.Deployment.xml
+D:\angular\WebApplication2\WebApplication2\bin\System.Web.WebPages.Razor.xml
+D:\angular\WebApplication2\WebApplication2\bin\Newtonsoft.Json.xml
+D:\angular\WebApplication2\WebApplication2\bin\System.Web.Http.WebHost.xml
+D:\angular\WebApplication2\WebApplication2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\angular\WebApplication2\WebApplication2\obj\Debug\WebApplication2.csprojAssemblyReference.cache
+D:\angular\WebApplication2\WebApplication2\obj\Debug\WebApplication2.csproj.CoreCompileInputs.cache
+D:\angular\WebApplication2\WebApplication2\obj\Debug\WebApplication2.csproj.CopyComplete
+D:\angular\WebApplication2\WebApplication2\obj\Debug\WebApplication2.dll
+D:\angular\WebApplication2\WebApplication2\obj\Debug\WebApplication2.pdb

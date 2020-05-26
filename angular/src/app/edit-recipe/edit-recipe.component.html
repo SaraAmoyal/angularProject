@@ -1,0 +1,55 @@
+
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+
+<body>
+  <div class="w3-card-4">
+<p>edit recipe</p>
+
+<ng-container *ngIf="hidden">
+<form class="w3-container">
+  <div class="row">
+    <div class="col-sm-5-offset">
+    <label>recipe name:</label>
+    <input class="w3-input" type="text" [(ngModel)]="myNewRecipe.RecipeName" name="name"> 
+    <br>
+    <label>recipe category:</label>
+    <select  [(ngModel)]="myNewRecipe.RecipeCategory" name="category" class="w3-select">
+      <option class="w3-input" *ngFor="let c of categoriesList" type="text" [value]="c.categoryCode" >{{c.categoryName}} </option>
+      </select>
+    <br>
+    <label>recipe prepering time:</label>
+    <input class="w3-input" type="number" [(ngModel)]="myNewRecipe.RecipePreperingTime" name="ptime"> 
+    <br>
+    <label>recipe difficult level:</label>
+    <input class="w3-input" type="number" [(ngModel)]="myNewRecipe.RecipeDifficultLevel" min=1 max=5 name="dlevel"> 
+    <br>
+    <label>recipe picture:</label>
+    <input class="w3-input" type="file" name="img"> 
+    <br>
+    <label>to show?</label>
+    <input class="w3-input" type="checkbox"  [(ngModel)]="myNewRecipe.RecipeIf" name="if">
+    <br>
+    <input class="w3-btn w3-blue-grey" style="margin-right: 5px;" type="button" value="save" (click)="addRecipe()">
+    <input class="w3-btn w3-blue-grey" type="button" value="cancel" (click)="cancel()">
+  </div>
+  <div class="col-sm-9">
+    <label>recipe ingredients:</label>
+    <div *ngFor="let l of myNewRecipe.RecipeIngredients;let i=index">
+     <input class="w3-input inglin" [(ngModel)]="myNewRecipe.RecipeIngredients[i]" placeholder="l" type="text" (keydown.enter)="addIngline(ingr.value)" name="ingr{{i}}">
+    </div>
+    <br>
+    <div>*press enter to get a new line.</div>
+    <label>recipe preparation:</label>
+    <div *ngFor="let p of myNewRecipe.RecipePreparation;let i=index">
+      <input class="w3-input prelin" [(ngModel)]="myNewRecipe.RecipePreparation[i]"  type="text" (keydown.enter)="addPreline(prep.value)" name="prep{{i}}">
+     </div>
+     <br>
+    <div>*press enter to get a new line.</div>
+    </div>
+    </div>
+        <div *ngIf="ifvalid">*The password is not valid!</div> 
+
+</form>
+</ng-container>
+</div>
+</body>

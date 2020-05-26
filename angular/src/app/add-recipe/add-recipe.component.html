@@ -1,0 +1,54 @@
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+
+<body><p>add-recipe</p>
+  <div class="w3-card-4 row">
+
+<ng-container *ngIf="arive">
+<form class="w3-container col-md-10-offset-2.5">
+    <label>recipe name:</label>
+    <input class="w3-input" type="text" [(ngModel)]="myNewRecipe.RecipeName" #name [ngModelOptions]="{standalone: true}"> 
+    <br>
+    <br> {{categoriesList|json}}<br>
+    <select class="w3-select" [(ngModel)]="myNewRecipe.RecipeCategory">
+      <option value="" disabled selected>recipe category:</option>
+    <option *ngFor="let c of categoriesList" type="text" [value]=c.categoryCode name="category">{{c.categoryName}}</option>
+    </select> 
+    <br>
+    <label>recipe prepering time:</label>
+    <input class="w3-input" type="number" [(ngModel)]="myNewRecipe.RecipePreperingTime" #ptime name="ptime"> 
+    <br>
+    <label>recipe difficult level:</label>
+    <input class="w3-input" type="number" [(ngModel)]="myNewRecipe.RecipeDifficultLevel" min=1 max=5 #dlevel name="dlevel"> 
+    <br>
+    <label>this date:</label>
+    <input  class="w3-input" type="date" [(ngModel)]="myNewRecipe.RecipeAddDate" #date name="date"> 
+    <br>
+    <label>recipe ingredients:</label>
+    {{ingLists|json}}
+    <div *ngFor="let l of ingLists;let i=index">
+     <input class="w3-input"  class="inglin" [value]=l type="text" (keydown.enter)="addIngline(ingr.value)" #ingr name="ingr">
+    </div>
+    <!-- [(ngModel)]="ingLists[i]" -->
+    <br>
+    <label>recipe preparation:</label>
+    <div *ngFor="let p of preLists;let i=index">
+      <input class="w3-input" [(ngModel)]="preLists[i]" class="prelin" [value]=p type="text" (keydown.enter)="addPreline(prep.value)" #prep name="prep">
+     </div>
+    <br>
+    <label>your code:</label>
+    <br>
+    <input class="w3-input" type="password" [(ngModel)]="myNewRecipe.RecipeuserCode" #code name="code"> 
+    <br>
+    <label>recipe picture:</label>
+    <input class="w3-input" type="file" [(ngModel)]="myNewRecipe.RecipePicture" #img name="img"> 
+    <br>
+    <label>to show?</label>
+    <input class="w3-input" type="checkbox" [(ngModel)]="myNewRecipe.RecipeIf" #if name="if">
+    <br>
+    <input class="w3-btn w3-blue-grey" type="button" value="save" (click)="addRecipe()"><br>
+     <!-- <div *ngIf="ifvalid">*The password have to  include Minimum 3 characters at least 1 Alphabet, 1 Number and 1 Special Character.</div> -->
+ {{myNewRecipe|json}}
+    </form>
+</ng-container>
+  </div>
+</body>

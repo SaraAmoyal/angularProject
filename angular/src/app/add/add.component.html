@@ -1,0 +1,55 @@
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+
+<body><p>add-recipe</p>
+  <div class="w3-card-4 row">
+<div *ngIf="login" style="margin-left: 45%; margin-top: 2%;">You have to log in.
+  <div><input type="button" (click)="loginf()" value="to login"/></div>
+</div>
+<ng-container *ngIf="arive">
+<form class="w3-container col-md-10-offset-2.5">
+    <label>recipe name:</label>
+    <input class="w3-input" type="text" [(ngModel)]="myNewRecipe.RecipeName" #jjjjj name="namefff"> 
+    <br>
+    <select class="w3-select" [(ngModel)]="myNewRecipe.RecipeCategory">
+      <option value="" disabled selected>recipe category:</option>
+    <option *ngFor="let c of categoriesList" type="text" [value]=c.categoryCode name="category">{{c.categoryName}}</option>
+    </select> 
+    <br>
+    <label>recipe prepering time:</label>
+    <input class="w3-input" type="number" [(ngModel)]="myNewRecipe.RecipePreperingTime" #ptime name="ptime"> 
+    <br>
+    <label>recipe difficult level:</label>
+    <input class="w3-input" type="number" [(ngModel)]="myNewRecipe.RecipeDifficultLevel" min=1 max=5 #dlevel name="dlevel"> 
+    <br>
+    <label>this date:</label>
+    <input  class="w3-input" type="date" [(ngModel)]="myNewRecipe.RecipeAddDate" #date name="date"> 
+    <br>
+    <label>recipe ingredients:</label>
+    <div *ngFor="let l of ingLists;let i=index;trackBy:trackByFn">
+     <input class="w3-input inglin" [(ngModel)]="ingLists[i]" type="text" (keydown.enter)="addIngline($event, ingr.value)" #ingr name="ingr{{i}}">
+    </div>
+    <br>
+    <div>*press enter to get a new line.</div>
+    <br>
+    <label>recipe preparation:</label>
+    <div *ngFor="let p of preLists;let i=index;trackBy:trackByFn">
+      <input class="w3-input prelin" [(ngModel)]="preLists[i]" type="text" (keydown.enter)="addPreline($event, prep.value)" #prep name="prep{{i}}">
+     </div>
+     <br>
+     <div> *press enter to get a new line.</div>
+    <br>
+    <label>recipe picture:</label>
+    <input class="w3-input" type="file" [(ngModel)]="mypicture" #img name="img"> 
+    <br>
+    <label>to show?</label>
+    <input class="w3-input" type="checkbox" [(ngModel)]="myNewRecipe.RecipeIf" #if name="if">
+    <br>
+    <input class="w3-btn w3-blue-grey" type="button" value="save" (click)="addRecipe()"><br>
+     <div *ngIf="ifvalid">you mast write a valid prepering time and minimum oneline in ingredients and preparation!</div>
+ 
+    </form>
+</ng-container>
+  </div>
+</body>
+
+

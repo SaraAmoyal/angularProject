@@ -1,0 +1,47 @@
+
+
+
+
+<meta charset="utf-8" />
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.0/jquery.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"></script>
+
+
+
+<body class="row">
+<p class="col-12">all recipes</p>
+<ng-container *ngIf="hidden">
+  <div class="w3-card-4 row"><form class="w3-container col-sm-12"><div class=" col-sm-12 sort">
+   <label>     recipe name:</label>
+   <input class="w3-input" type="text" [(ngModel)]="Sname" #name name="name"> 
+   <label>     recipe prepering time:</label>
+    <input class="w3-input" type="number" [(ngModel)]="Stime" #ptime name="ptime"> 
+    <label>    recipe category:</label>
+    <select class="w3-select" [(ngModel)]="Scategory" name="category">
+      <!-- <option value="recipe category:" disabled selected></option> -->
+    <option *ngFor="let c of categoriesList" type="text" [value]="c.categoryName" name="category">{{c.categoryName}}</option>
+    </select> 
+    <button class="btn" (click)="sort()">look for results</button>
+   <br>
+  </div></form></div>
+  <p *ngIf="notRaesults" style="max-height: 35px; margin: 5%;">There are not results.</p>
+    <ng-container *ngIf="!finded">
+      <br>
+    <div class="col-4" *ngFor="let recipe of recipesArr">
+    <app-recipe-in-short [nowRecipeName]="recipe.RecipeName"
+    [nowRecipePT]="recipe.RecipePreperingTime" [nowRecipeDL]="recipe.RecipeDifficultLevel"
+    [nowRecipeImg]="recipe.RecipePicture"></app-recipe-in-short>
+    </div>    
+  </ng-container>
+      <ng-container *ngIf="finded1">
+        <div class="col-4" *ngFor="let recipe of findtasks">
+        <app-recipe-in-short [nowRecipeName]="recipe.RecipeName"
+        [nowRecipePT]="recipe.RecipePreperingTime" [nowRecipeDL]="recipe.RecipeDifficultLevel"
+        [nowRecipeImg]="recipe.RecipePicture"></app-recipe-in-short>
+          </div>
+     </ng-container>
+</ng-container> 
+
+   </body>

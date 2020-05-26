@@ -1,0 +1,32 @@
+
+
+body {
+    text-align: center;
+    direction: ltr;
+    font-family: FbBokertov;
+}
+
+.active {
+    border-right: 1px solid white;
+}
+img {
+    border: 5px solid white;
+}
+
+#logo {
+    position: relative;
+    top: 0px;
+    font-family: 'journalclm-light-webfont';
+    font-size: 40px;
+    text-align: left;
+    background-color: palevioletred;
+}
+p ,.p{
+    direction:rtl;
+    text-align:center;
+    background-color:khaki;
+}
+
+form{
+    text-align: center;
+}
