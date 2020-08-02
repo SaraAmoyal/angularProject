@@ -1,0 +1,3 @@
+# angularProject
+My angular project, a graet site about recipes.
+Run the webApplication, and all the other in with new node modules...
